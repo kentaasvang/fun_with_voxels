@@ -1,0 +1,16 @@
+/home/kent/repos/fun/fun_with_voxels/target/debug/deps/wayland_client-15cf3d8c0272f057.rmeta: /home/kent/.cargo/registry/src/github.com-1ecc6299db9ec823/wayland-client-0.29.5/src/lib.rs /home/kent/.cargo/registry/src/github.com-1ecc6299db9ec823/wayland-client-0.29.5/src/display.rs /home/kent/.cargo/registry/src/github.com-1ecc6299db9ec823/wayland-client-0.29.5/src/event_queue.rs /home/kent/.cargo/registry/src/github.com-1ecc6299db9ec823/wayland-client-0.29.5/src/globals.rs /home/kent/.cargo/registry/src/github.com-1ecc6299db9ec823/wayland-client-0.29.5/src/proxy.rs /home/kent/.cargo/registry/src/github.com-1ecc6299db9ec823/wayland-client-0.29.5/src/native_lib/mod.rs /home/kent/.cargo/registry/src/github.com-1ecc6299db9ec823/wayland-client-0.29.5/src/native_lib/display.rs /home/kent/.cargo/registry/src/github.com-1ecc6299db9ec823/wayland-client-0.29.5/src/native_lib/event_queue.rs /home/kent/.cargo/registry/src/github.com-1ecc6299db9ec823/wayland-client-0.29.5/src/native_lib/proxy.rs /home/kent/repos/fun/fun_with_voxels/target/debug/build/wayland-client-cec92e0b766e1df1/out/wayland_api.rs
+
+/home/kent/repos/fun/fun_with_voxels/target/debug/deps/wayland_client-15cf3d8c0272f057.d: /home/kent/.cargo/registry/src/github.com-1ecc6299db9ec823/wayland-client-0.29.5/src/lib.rs /home/kent/.cargo/registry/src/github.com-1ecc6299db9ec823/wayland-client-0.29.5/src/display.rs /home/kent/.cargo/registry/src/github.com-1ecc6299db9ec823/wayland-client-0.29.5/src/event_queue.rs /home/kent/.cargo/registry/src/github.com-1ecc6299db9ec823/wayland-client-0.29.5/src/globals.rs /home/kent/.cargo/registry/src/github.com-1ecc6299db9ec823/wayland-client-0.29.5/src/proxy.rs /home/kent/.cargo/registry/src/github.com-1ecc6299db9ec823/wayland-client-0.29.5/src/native_lib/mod.rs /home/kent/.cargo/registry/src/github.com-1ecc6299db9ec823/wayland-client-0.29.5/src/native_lib/display.rs /home/kent/.cargo/registry/src/github.com-1ecc6299db9ec823/wayland-client-0.29.5/src/native_lib/event_queue.rs /home/kent/.cargo/registry/src/github.com-1ecc6299db9ec823/wayland-client-0.29.5/src/native_lib/proxy.rs /home/kent/repos/fun/fun_with_voxels/target/debug/build/wayland-client-cec92e0b766e1df1/out/wayland_api.rs
+
+/home/kent/.cargo/registry/src/github.com-1ecc6299db9ec823/wayland-client-0.29.5/src/lib.rs:
+/home/kent/.cargo/registry/src/github.com-1ecc6299db9ec823/wayland-client-0.29.5/src/display.rs:
+/home/kent/.cargo/registry/src/github.com-1ecc6299db9ec823/wayland-client-0.29.5/src/event_queue.rs:
+/home/kent/.cargo/registry/src/github.com-1ecc6299db9ec823/wayland-client-0.29.5/src/globals.rs:
+/home/kent/.cargo/registry/src/github.com-1ecc6299db9ec823/wayland-client-0.29.5/src/proxy.rs:
+/home/kent/.cargo/registry/src/github.com-1ecc6299db9ec823/wayland-client-0.29.5/src/native_lib/mod.rs:
+/home/kent/.cargo/registry/src/github.com-1ecc6299db9ec823/wayland-client-0.29.5/src/native_lib/display.rs:
+/home/kent/.cargo/registry/src/github.com-1ecc6299db9ec823/wayland-client-0.29.5/src/native_lib/event_queue.rs:
+/home/kent/.cargo/registry/src/github.com-1ecc6299db9ec823/wayland-client-0.29.5/src/native_lib/proxy.rs:
+/home/kent/repos/fun/fun_with_voxels/target/debug/build/wayland-client-cec92e0b766e1df1/out/wayland_api.rs:
+
+# env-dep:OUT_DIR=/home/kent/repos/fun/fun_with_voxels/target/debug/build/wayland-client-cec92e0b766e1df1/out

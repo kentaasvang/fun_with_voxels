@@ -1,0 +1,12 @@
+/home/kent/repos/fun/fun_with_voxels/target/debug/deps/crossfont-652d89e9918d7465.rmeta: /home/kent/.cargo/registry/src/github.com-1ecc6299db9ec823/crossfont-0.5.1/src/lib.rs /home/kent/.cargo/registry/src/github.com-1ecc6299db9ec823/crossfont-0.5.1/src/ft/mod.rs /home/kent/.cargo/registry/src/github.com-1ecc6299db9ec823/crossfont-0.5.1/src/ft/fc/mod.rs /home/kent/.cargo/registry/src/github.com-1ecc6299db9ec823/crossfont-0.5.1/src/ft/fc/config.rs /home/kent/.cargo/registry/src/github.com-1ecc6299db9ec823/crossfont-0.5.1/src/ft/fc/font_set.rs /home/kent/.cargo/registry/src/github.com-1ecc6299db9ec823/crossfont-0.5.1/src/ft/fc/object_set.rs /home/kent/.cargo/registry/src/github.com-1ecc6299db9ec823/crossfont-0.5.1/src/ft/fc/char_set.rs /home/kent/.cargo/registry/src/github.com-1ecc6299db9ec823/crossfont-0.5.1/src/ft/fc/pattern.rs
+
+/home/kent/repos/fun/fun_with_voxels/target/debug/deps/crossfont-652d89e9918d7465.d: /home/kent/.cargo/registry/src/github.com-1ecc6299db9ec823/crossfont-0.5.1/src/lib.rs /home/kent/.cargo/registry/src/github.com-1ecc6299db9ec823/crossfont-0.5.1/src/ft/mod.rs /home/kent/.cargo/registry/src/github.com-1ecc6299db9ec823/crossfont-0.5.1/src/ft/fc/mod.rs /home/kent/.cargo/registry/src/github.com-1ecc6299db9ec823/crossfont-0.5.1/src/ft/fc/config.rs /home/kent/.cargo/registry/src/github.com-1ecc6299db9ec823/crossfont-0.5.1/src/ft/fc/font_set.rs /home/kent/.cargo/registry/src/github.com-1ecc6299db9ec823/crossfont-0.5.1/src/ft/fc/object_set.rs /home/kent/.cargo/registry/src/github.com-1ecc6299db9ec823/crossfont-0.5.1/src/ft/fc/char_set.rs /home/kent/.cargo/registry/src/github.com-1ecc6299db9ec823/crossfont-0.5.1/src/ft/fc/pattern.rs
+
+/home/kent/.cargo/registry/src/github.com-1ecc6299db9ec823/crossfont-0.5.1/src/lib.rs:
+/home/kent/.cargo/registry/src/github.com-1ecc6299db9ec823/crossfont-0.5.1/src/ft/mod.rs:
+/home/kent/.cargo/registry/src/github.com-1ecc6299db9ec823/crossfont-0.5.1/src/ft/fc/mod.rs:
+/home/kent/.cargo/registry/src/github.com-1ecc6299db9ec823/crossfont-0.5.1/src/ft/fc/config.rs:
+/home/kent/.cargo/registry/src/github.com-1ecc6299db9ec823/crossfont-0.5.1/src/ft/fc/font_set.rs:
+/home/kent/.cargo/registry/src/github.com-1ecc6299db9ec823/crossfont-0.5.1/src/ft/fc/object_set.rs:
+/home/kent/.cargo/registry/src/github.com-1ecc6299db9ec823/crossfont-0.5.1/src/ft/fc/char_set.rs:
+/home/kent/.cargo/registry/src/github.com-1ecc6299db9ec823/crossfont-0.5.1/src/ft/fc/pattern.rs:

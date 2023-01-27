@@ -1,0 +1,14 @@
+/home/kent/repos/fun/fun_with_voxels/target/debug/deps/wgpu-9efac7731f9c0bd9.rmeta: /home/kent/.cargo/registry/src/github.com-1ecc6299db9ec823/wgpu-0.14.2/src/lib.rs /home/kent/.cargo/registry/src/github.com-1ecc6299db9ec823/wgpu-0.14.2/src/backend/mod.rs /home/kent/.cargo/registry/src/github.com-1ecc6299db9ec823/wgpu-0.14.2/src/backend/direct.rs /home/kent/.cargo/registry/src/github.com-1ecc6299db9ec823/wgpu-0.14.2/src/util/mod.rs /home/kent/.cargo/registry/src/github.com-1ecc6299db9ec823/wgpu-0.14.2/src/util/belt.rs /home/kent/.cargo/registry/src/github.com-1ecc6299db9ec823/wgpu-0.14.2/src/util/device.rs /home/kent/.cargo/registry/src/github.com-1ecc6299db9ec823/wgpu-0.14.2/src/util/encoder.rs /home/kent/.cargo/registry/src/github.com-1ecc6299db9ec823/wgpu-0.14.2/src/util/indirect.rs /home/kent/.cargo/registry/src/github.com-1ecc6299db9ec823/wgpu-0.14.2/src/util/init.rs /home/kent/.cargo/registry/src/github.com-1ecc6299db9ec823/wgpu-0.14.2/src/macros.rs
+
+/home/kent/repos/fun/fun_with_voxels/target/debug/deps/wgpu-9efac7731f9c0bd9.d: /home/kent/.cargo/registry/src/github.com-1ecc6299db9ec823/wgpu-0.14.2/src/lib.rs /home/kent/.cargo/registry/src/github.com-1ecc6299db9ec823/wgpu-0.14.2/src/backend/mod.rs /home/kent/.cargo/registry/src/github.com-1ecc6299db9ec823/wgpu-0.14.2/src/backend/direct.rs /home/kent/.cargo/registry/src/github.com-1ecc6299db9ec823/wgpu-0.14.2/src/util/mod.rs /home/kent/.cargo/registry/src/github.com-1ecc6299db9ec823/wgpu-0.14.2/src/util/belt.rs /home/kent/.cargo/registry/src/github.com-1ecc6299db9ec823/wgpu-0.14.2/src/util/device.rs /home/kent/.cargo/registry/src/github.com-1ecc6299db9ec823/wgpu-0.14.2/src/util/encoder.rs /home/kent/.cargo/registry/src/github.com-1ecc6299db9ec823/wgpu-0.14.2/src/util/indirect.rs /home/kent/.cargo/registry/src/github.com-1ecc6299db9ec823/wgpu-0.14.2/src/util/init.rs /home/kent/.cargo/registry/src/github.com-1ecc6299db9ec823/wgpu-0.14.2/src/macros.rs
+
+/home/kent/.cargo/registry/src/github.com-1ecc6299db9ec823/wgpu-0.14.2/src/lib.rs:
+/home/kent/.cargo/registry/src/github.com-1ecc6299db9ec823/wgpu-0.14.2/src/backend/mod.rs:
+/home/kent/.cargo/registry/src/github.com-1ecc6299db9ec823/wgpu-0.14.2/src/backend/direct.rs:
+/home/kent/.cargo/registry/src/github.com-1ecc6299db9ec823/wgpu-0.14.2/src/util/mod.rs:
+/home/kent/.cargo/registry/src/github.com-1ecc6299db9ec823/wgpu-0.14.2/src/util/belt.rs:
+/home/kent/.cargo/registry/src/github.com-1ecc6299db9ec823/wgpu-0.14.2/src/util/device.rs:
+/home/kent/.cargo/registry/src/github.com-1ecc6299db9ec823/wgpu-0.14.2/src/util/encoder.rs:
+/home/kent/.cargo/registry/src/github.com-1ecc6299db9ec823/wgpu-0.14.2/src/util/indirect.rs:
+/home/kent/.cargo/registry/src/github.com-1ecc6299db9ec823/wgpu-0.14.2/src/util/init.rs:
+/home/kent/.cargo/registry/src/github.com-1ecc6299db9ec823/wgpu-0.14.2/src/macros.rs:
